@@ -1,1 +1,1 @@
-# Natural_Language_Processing
+Python codes implementing fundamental algorithms and math associated with Natural Language Processing.
